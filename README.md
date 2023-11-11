@@ -1,6 +1,6 @@
 # Terraform Managed AWS VPC & EKS Infrastructure
 
-This repository includes a ready to deploy VPC and EKS infrastructure, without having to edit anything, besides the Name tags of the resources, as they all start with ashrafk.
+This repository includes a ready to deploy VPC and EKS infrastructure, without having to edit anything, expect for region, and the Name tags of the resources, as they all start with ashrafk.
 
 ## Infrastructure design chart
 
