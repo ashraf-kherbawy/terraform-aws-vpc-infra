@@ -2,6 +2,16 @@
 
 This repository includes a ready to deploy VPC and EKS infrastructure, without having to edit anything, expect for region, and the Name tags of the resources, as they all start with ashrafk.
 
+To deploy the resources, run the following Terraform command:
+```
+terraform init
+```
+```
+terraform plan
+```
+```
+terraform apply
+```
 ## Infrastructure design chart
 
 The infrastructure was built with this design in mind:
